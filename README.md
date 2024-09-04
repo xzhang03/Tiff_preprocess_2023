@@ -12,5 +12,5 @@ Code to preprocess 2p imaging tiff stacks
 
 ## Folders
 1. Demo: demo script
-2. Primary_functions: primary functions
-3. Secondary_functions: secondary functions
+2. Primary_functions: primary functions (see readme file within)
+3. Secondary_functions: secondary functions (see readme file within)
